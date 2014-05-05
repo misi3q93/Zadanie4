@@ -16,17 +16,6 @@
             );
     }
 ?>
-<!-- 
-Zadanie 4 (PHP):
-Aplikacja oparta wizualnie na komponentach Bootstrap3, realizująca funkcjonalność dzienniczka ucznia. 
-Wymagania: 
-● Możliwość dodania ucznia 
-● Możliwość oznaczenia, czy uczeń był w danym dniu obecny 
-v Wyświetlenie listy obecności ucznia 
-v Wyświetlenie listy obecności z danego dnia 
-v Napisane w PHP
-v Mile widzane wgranie projektu do repo na GitHubie i wykorzystanie jakiegoś frameworka PHP. 
--->
 <!DOCTYPE html> 
 <html lang="pl">
     <head>
