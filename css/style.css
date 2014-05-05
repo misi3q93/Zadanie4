@@ -1,0 +1,20 @@
+/*dodaj-obecnosci.php*/
+.obecnosci form .row:last-child .col-sm-12{
+	text-align: right;
+}
+
+form .row button{
+	 padding-left: 50px;
+	 padding-right: 50px;
+}
+
+/*dodaj-ucznia.php*/
+.uczen form .row{
+	text-align: right;
+}
+
+/*main.php*/
+.main{
+	text-align: center;
+	font-weight: bold;
+}
